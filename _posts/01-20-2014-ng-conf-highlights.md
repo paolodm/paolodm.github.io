@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 ---
 
 ---
-title: Thing's I'm excited about
+title: Thing's I learned from ng-conf I'm excited about
 published: true
 ---
 
